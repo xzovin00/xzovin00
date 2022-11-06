@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 
-<figure><embed src="https://wakatime.com/share/@MightyMato/11437abf-3b5b-4193-bf35-2e3d220e989b.svg"></embed></figure>
-<!--
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka--><!--
+
 **xzovin00/xzovin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
