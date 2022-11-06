@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xzovin00)
-
+<figure><embed src="https://wakatime.com/share/@MightyMato/11437abf-3b5b-4193-bf35-2e3d220e989b.svg"></embed></figure>
 <!--
 **xzovin00/xzovin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
