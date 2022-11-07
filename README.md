@@ -1,8 +1,9 @@
 ### Hello there 👋
+[![wakatime](https://wakatime.com/badge/user/8b2a3d9c-f782-46b7-ac76-372ee352f174.svg)](https://wakatime.com/@8b2a3d9c-f782-46b7-ac76-372ee352f174)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xzovin00&theme=dark)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xzovin00&theme=tokyonight)](https://github.com/xzovin00/github-readme-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka--><!--
+<!--
 
 **xzovin00/xzovin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
