@@ -5,7 +5,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xzovin00&theme=dark)](https://git.io/streak-stats)
 <br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xzovin00&theme=tokyonight)](https://github.com/xzovin00/github-readme-stats)
 
 <!--
 
