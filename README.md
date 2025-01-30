@@ -1,10 +1,7 @@
 ### Hello there 👋
 [![wakatime](https://wakatime.com/badge/user/8b2a3d9c-f782-46b7-ac76-372ee352f174.svg)](https://wakatime.com/@8b2a3d9c-f782-46b7-ac76-372ee352f174)
 <br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xzovin00&theme=dark)](https://git.io/streak-stats)
-<br/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=xzovin00&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 
