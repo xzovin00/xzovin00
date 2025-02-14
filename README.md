@@ -1,7 +1,9 @@
 ### Hello there 👋
 [![wakatime](https://wakatime.com/badge/user/8b2a3d9c-f782-46b7-ac76-372ee352f174.svg)](https://wakatime.com/@8b2a3d9c-f782-46b7-ac76-372ee352f174)
 <br/>
-![WakaTime stats](https://wakatime.com/share/@MightyMato/7dcfd5f7-e336-45e7-a3f9-c7df34e00d9c.svg)
+![WakaTime daily](https://wakatime.com/share/@MightyMato/7dcfd5f7-e336-45e7-a3f9-c7df34e00d9c.svg)
+<br/>
+![WakaTime languages](https://wakatime.com/share/@MightyMato/4ef7c71c-e0cc-431b-91da-4a6948d71bb6.svg)
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=xzovin00&theme=dark&exclude_days=Sun%2CSat&cache=1)-->
 
 <!--**xzovin00/xzovin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
